@@ -61,7 +61,7 @@ axios.get('https://api.github.com/users/matthew-kearney')
  console.log(res);
 })
 .catch(error => {
-  console.log('Info not found', error)
+  
 })
 
 
